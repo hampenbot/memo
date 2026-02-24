@@ -14,7 +14,18 @@
 
 ### node
 
-
 ```
 brew install node
+```
+
+### claude
+
+```
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+### codex
+
+```
+npm i -g @openai/codex
 ```
